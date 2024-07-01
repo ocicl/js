@@ -4,6 +4,6 @@ JavaScript compiler for Common Lisp
 
 |---------+--------------------------------------|
 | source  | git:https://github.com/akapav/js.git |
-| commit  | 3a9a1a8                              |
+| commit  | f1ff112                              |
 | systems | cl-js                                |
 |---------+--------------------------------------|
